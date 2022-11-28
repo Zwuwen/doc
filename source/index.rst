@@ -10,6 +10,7 @@ Welcome to dock's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   2022/index
    abort
 
 
