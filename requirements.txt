@@ -1,1 +1,1 @@
-nbshpinx
+nbsphinx
