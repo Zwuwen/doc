@@ -11,6 +11,7 @@ Welcome to dock's documentation!
    :caption: Contents:
 
    2022/index
+   notebook/index
 
 
 
