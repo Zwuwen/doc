@@ -5,3 +5,4 @@ AICM
    :caption: Contents:
 
    aicm/手动导入模型
+   text
