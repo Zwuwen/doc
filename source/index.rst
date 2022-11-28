@@ -11,7 +11,6 @@ Welcome to dock's documentation!
    :caption: Contents:
 
    2022/index
-   abort
 
 
 
