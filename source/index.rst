@@ -12,12 +12,3 @@ Welcome to dock's documentation!
 
    2022/index
    notebook/index
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

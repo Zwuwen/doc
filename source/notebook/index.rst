@@ -1,7 +1,7 @@
-TUPLE
+python
 =================================
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   tuple
+   python/*
