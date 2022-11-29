@@ -1,8 +1,8 @@
-AICM
+服务部署
 =================================
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    aicm/手动导入模型
-   text
+   rule-engine/规则引擎
