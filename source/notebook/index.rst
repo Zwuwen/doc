@@ -4,4 +4,5 @@ python
    :maxdepth: 2
    :caption: Contents:
 
-   python/*
+   python/bytes
+   python/tuple
