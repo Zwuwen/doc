@@ -11,4 +11,3 @@ Welcome to XF's documentation!
    :caption: Contents:
 
    2022/index
-   notebook/index
