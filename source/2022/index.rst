@@ -1,9 +1,8 @@
 设计文档
 =================================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
-   aicm/手动导入模型
    rule-engine/设计概要
    rule-engine/新旧改动
