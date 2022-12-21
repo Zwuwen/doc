@@ -7,7 +7,7 @@ Welcome to XF's documentation!
 ================================
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 10
    :caption: Contents:
 
    2022/index
