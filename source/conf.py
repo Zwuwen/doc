@@ -13,7 +13,7 @@ author = 'zxf'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['recommonmark', 'nbsphinx', 'sphinx_pdj_theme']
+extensions = ['recommonmark', 'nbsphinx', 'sphinx_rtd_theme']
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -21,10 +21,10 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-import sphinx_pdj_theme
+import sphinx_rtd_theme
 
-html_theme = "sphinx_pdj_theme"
-html_theme_path = [sphinx_pdj_theme.get_html_theme_path()]
+html_theme = "sphinx_rtd_theme"
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
